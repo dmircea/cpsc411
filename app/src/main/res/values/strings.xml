@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">App1</string>
+    <string name="app_name">Volume and Area</string>
+    <string name="title_activity_volume_and_area">VolumeAndArea</string>
+    <string name="toVolAndArea">To the next activity</string>
+    <string name="seeOption">This is where the option will be shown</string>
+    <string name="inputWidthHint">Input width here</string>
+    <string name="inputLengthHint">Input length here</string>
+    <string name="inputHeightHint">Input height here</string>
+    <string name="inputRadiusHint">Input radius here</string>
+
+    <string name="volumeAnswer">Volume: %.1f</string>
+    <string name="areaAnswer">Area: %.1f</string>
+
+    <string-array name="figure_array">
+        <item>Prism</item>
+        <item>Square Pyramid</item>
+        <item>Sphere</item>
+        <item>Cylinder</item>
+        <item>Cone</item>
+    </string-array>
 </resources>
